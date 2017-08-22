@@ -1,1 +1,0 @@
-# MemeCompass3D
